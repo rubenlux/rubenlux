@@ -3,6 +3,7 @@
   
 </div>
 <div id="badges" align="center">
+ <img src="https://komarev.com/ghpvc/?username=rubenlux&style=flat-square&color=blue" alt=""/>
   <a href="https://www.linkedin.com/in/rub%C3%A9n-dar%C3%ADo-1b6b7620b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,7 +13,4 @@
   <a href="https://twitter.com/ruben_luxor">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-<div id="counter" aling="center">
-   <img src="https://komarev.com/ghpvc/?username=rubenlux&style=flat-square&color=blue" alt=""/>
 </div>
