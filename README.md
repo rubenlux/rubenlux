@@ -35,3 +35,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my spare time I dedicate myself to audiovisual production, specifically radio and television.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rub%C3%A9n-dar%C3%ADo-1b6b7620b/)
+### :hammer_and_wrench: Languages and Tools :
