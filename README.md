@@ -28,3 +28,10 @@
 ### :man_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
+- :telescope: I’m working as a developer to frontend and backend for building web y mobile applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my spare time I dedicate myself to audiovisual production, specifically radio and television.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rub%C3%A9n-dar%C3%ADo-1b6b7620b/)
